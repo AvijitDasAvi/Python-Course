@@ -1,5 +1,4 @@
-name1 = "Avijit"
-name2 = "Das"
+name1,name2 = "Avijit","Das"
 age = 23
 salary = 25.50
 x = False
