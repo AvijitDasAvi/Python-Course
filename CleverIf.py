@@ -7,4 +7,3 @@ print("For vote: ",vote)
 salary = float(input("Enter your salary: "))
 tax = salary * (0.1,0.2)[salary > 50000]
 print("Your tax is: ",tax)
-
